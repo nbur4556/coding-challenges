@@ -12,5 +12,5 @@ Difficulty: Very Easy
 
 ## Resources
 
-Coding challenge from [edabit.com](edabit.com)
+Coding challenge from [edabit.com](https://edabit.com/)
 [Challenge](https://edabit.com/challenge/KQQ7RMXjSK257GQgy)
