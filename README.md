@@ -4,11 +4,11 @@ Practicing web development, and staying familiar with all the languages.
 
 ## Technologies To Practice
 
-* Git
-* HTML
-* CSS
+* [Git](#Git)
+* [HTML](#HTML)
+* [CSS](#CSS)
 * Javascript
-* Bootstrap
+* [Bootstrap](#Bootstrap)
 * Web API's
 
 ## Sections
