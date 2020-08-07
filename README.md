@@ -50,3 +50,23 @@ Practicing web development, and staying familiar with all the languages.
 * Style an HTML tag, class, and id
 * Link a seperate CSS file to an HTMl file
 * Format a page using CSS Box Model and floats
+
+#### Typeography
+
+* Style font size, line-height, letter spacing, and font
+* Use a 3rd party font
+
+#### Pseudo Styles
+
+* Style elements when hovered, focused, and active
+* Style children of an element
+
+#### Media Queries
+
+* Style based on size of screen
+
+### Bootstrap
+
+* Style Bootstrap components including NavBars, Buttons, Tables, Forms, Tooltips, and more
+* Use Bootstrap to make a responsive layout on multiple devices
+* Create a grid layout using Bootstrap
